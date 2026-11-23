@@ -2,6 +2,15 @@
 
 Animated SDDM login screen with the black hole *Gargantua* from Interstellar, as a variant of [sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) by Keyitdev.
 
+![Preview](preview/preview.webp)
+
+<details>
+<summary>Still image (1920×1080)</summary>
+
+![Still image](preview/preview.jpg)
+
+</details>
+
 - Looping video background (2560×1440, 60 fps, H.264, no audio)
 - Placeholder frame while the video loads, so there's no black flash
 - Amber/cream color scheme matched to the accretion disk
